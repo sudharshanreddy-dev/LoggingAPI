@@ -28,6 +28,9 @@ This project provides a backend service for logging and managing AI safety incid
 # `Setup Instructions`
 
 1. **Clone the repository**
+    ```bash
+    git clone https://github.com/sudharshanreddy-dev/LoggingAPI
+    ```
 
 2. **Install Dependencies**
     ```bash
